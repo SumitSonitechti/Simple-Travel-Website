@@ -2,12 +2,12 @@
 
 
 
-```markdown
+markdown
 # README: Simple Travel Website Assignment 🌍✈️
 
 ## Project Title: Simple Travel Website
 
----
+
 
 ### About This Project
 
@@ -38,7 +38,7 @@ This project contains two key HTML files:
 2.  **`Contact Us .html` (The Linked Page)**
     This is a very simple page that has a link back to the main homepage. Its purpose is purely to demonstrate successful **internal hyperlink navigation** between two different HTML documents within the same project.
 
----
+
 
 ### How to Run This Project Properly on GitHub 💻
 
