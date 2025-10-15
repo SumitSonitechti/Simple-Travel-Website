@@ -1,51 +1,49 @@
+# 🌍✈️ Simple Travel Website 
 
+## About This Project
 
+This project is a simple, two-page travel website built using **only fundamental HTML tags**. 
 
+It includes **two linked HTML files** to showcase basic internal navigation.
 
-markdown
-# README: Simple Travel Website Assignment 🌍✈️
+---
 
-## Project Title: Simple Travel Website
+## 🚀 Key Features and Technical Deep Dive
 
+The project consists of two core files, demonstrating various HTML elements:
 
+### 1. `SumitSoni202501100400329.html` (The Main Homepage)
 
-### About This Project
+This file serves as the main website content, utilizing several essential HTML tags:
 
-Hello everyone! 👋 
-I was worked with using all the fundamental HTML tags we've learned to create a simple, fun travel website. This project includes **two linked HTML files** to show basic navigation between pages. I tried my best to structure it neatly!
+* **Structure:** Uses the correct HTML5 `<!DOCTYPE html>`, with clear `<head>` (metadata) and `<body>` (visible content) sections. Headings (`<h1>` and `<h2>`) establish a clear content hierarchy.
+* **Formatting:** Paragraphs are formatted using all basic inline tags:
+    * `<b>` (Bold)
+    * `<i>` (Italic)
+    * `<u>` (Underline)
+    * `<s>` (Strikethrough)
+* **Images (`<img>`):** Images for favorite destinations (Goa and Shimla) and activities are included.
+    > ⚠️ **Note on Images:** Two image paths are **relative** (e.g., `src="/HTML assignment/..."`). They will only load correctly if the original folder structure (including the **/HTML assignment/** parent folder) is preserved.
+* **Hyperlinks (`<a>`):**
+    * **External Link:** Links to an external site (MakeMyTrip), using `target="_blank"` to open in a new tab.
+    * **Internal Link:** Links to the `Contact Us .html` page for navigation.
+* **Lists:** Examples of all three primary list types are included:
+    * **Ordered List (`<ol>`):** Used for **Top Destinations**.
+    * **Unordered List (`<ul>`):** Used for **Travel Essentials**.
+    * **Definition List (`<dl>`):** Used for **Travel Meanings** (`<dt>` for Term, `<dd>` for Definition).
+* **Table (`<table>`):** A simple package cost table, using the `border="1"` attribute to display the grid visually.
 
-### What's Included (A Deep Dive into the Code! 🤓)
+### 2. `Contact Us .html` (The Linked Page)
 
-This project contains two key HTML files:
+This simple, minimal page is included to demonstrate successful **internal hyperlink navigation** back to the main homepage, ensuring two-way linking works correctly within the project.
 
-1.  **`SumitSoni202501100400329.html` (The Main Homepage)**
-    This file contains the main website content, demonstrating various structural and formatting elements:
+---
 
-    * **Structure:** Uses the correct HTML5 document type, $\text{<head>}$ for metadata, and $\text{<body>}$ for visible content. Headings ($\text{<h1>}$ and $\text{<h2>}$) are used to create a clear content hierarchy.
-    * **Formatting Tags:** I used all the basic inline tags to format the paragraphs:
-        * $\text{<b>}$ (Bold)
-        * $\text{<i>}$ (Italic)
-        * $\text{<u>}$ (Underline)
-        * $\text{<s>}$ (Strikethrough)
-    * **Images ($\text{<img>}$):** I added my favourite destinations (Goa and Shimla) and activities. *Please Note: Two of the image paths are **relative** ($\text{src="/HTML assignment/..."}$). They will only load correctly if the original folder structure is preserved on your computer.*
-    * **Hyperlinks ($\text{<a>}$):** Used to link to external websites ($\text{target="_blank"}$ is used to open MakeMyTrip in a new tab) and to link internally to my contact page.
-    * **Lists:** I included examples of all three main list types:
-        * **Ordered List ($\text{<ol>}$):** For **Top Destinations** (numbered list).
-        * **Unordered List ($\text{<ul>}$):** For **Travel Essentials** (bullet list).
-        * **Definition List ($\text{<dl>}$):** Used for **Travel Meanings** (Terms $\text{<dt>}$ and Definitions $\text{<dd>}$).
-    * **Table ($\text{<table>}$):** A simple package cost table. I used the old-school $\text{border="1"}$ attribute to make the grid visible.
+## 🛠️ How to Run This Project Locally
 
-2.  **`Contact Us .html` (The Linked Page)**
-    This is a very simple page that has a link back to the main homepage. Its purpose is purely to demonstrate successful **internal hyperlink navigation** between two different HTML documents within the same project.
+This is a simple, client-side project, making it very easy to launch:
 
-
-
-### How to Run This Project Properly on GitHub 💻
-
-This is a simple, client-side project, so it's super easy to run!
-
-1.  **Clone or Download:** Get all the files onto your machine.
-2.  **File Location:** Make sure both $\text{SumitSoni202501100400329.html}$ and $\text{Contact Us .html}$ are located inside the $\text{/HTML assignment/}$ folder, as my links use that path.
+1.  **Clone or Download:** Get all project files onto your local machine.
+2.  **Verify Structure:** Ensure both `SumitSoni202501100400329.html` and `Contact Us .html` are located **inside** the `/HTML assignment/` directory, as the internal links depend on this path.
 3.  **Launch:** Simply **double-click** the main file: **`SumitSoni202501100400329.html`**
-4.  It will open immediately in your default web browser (Chrome, Microsoft Explorer, etc.). You can then click the links to test the internal navigation and external websites.
-
+4.  The file will open in your default web browser. You can then test the internal navigation (Contact Us link) and the external hyperlink.
