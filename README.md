@@ -11,9 +11,8 @@
 
 ### About This Project
 
-Hello everyone! 👋 This is my first proper **HTML assignment** for my B.Tech 1st Year course, given by Mayank Lakhotia Sir.
-
-I was tasked with using all the fundamental HTML tags we've learned to create a simple, fun travel website. This project includes **two linked HTML files** to show basic navigation between pages. I tried my best to structure it neatly!
+Hello everyone! 👋 
+I was worked with using all the fundamental HTML tags we've learned to create a simple, fun travel website. This project includes **two linked HTML files** to show basic navigation between pages. I tried my best to structure it neatly!
 
 ### What's Included (A Deep Dive into the Code! 🤓)
 
@@ -48,7 +47,5 @@ This is a simple, client-side project, so it's super easy to run!
 1.  **Clone or Download:** Get all the files onto your machine.
 2.  **File Location:** Make sure both $\text{SumitSoni202501100400329.html}$ and $\text{Contact Us .html}$ are located inside the $\text{/HTML assignment/}$ folder, as my links use that path.
 3.  **Launch:** Simply **double-click** the main file: **`SumitSoni202501100400329.html`**
-4.  It will open immediately in your default web browser (Chrome, Firefox, etc.). You can then click the links to test the internal navigation and external websites.
+4.  It will open immediately in your default web browser (Chrome, Microsoft Explorer, etc.). You can then click the links to test the internal navigation and external websites.
 
-Thanks for checking out my first major web assignment! Any feedback is welcome! 🙏
-```
